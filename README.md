@@ -31,7 +31,7 @@ Partiendo de las **hojas de datos oficiales de los fabricantes** (sin agregadore
 ## ✅ Dispositivos Combinacionales MSI (15)
 | # | Nombre industrial | Función | Enlace a hoja de datos oficial |
 |---|-------------------|---------|-------------------------------|
-| 1 | [74HC138](comb/74HC138.vhd) | Decodificador 3-a-8 | [Nexperia](https://assets.nexperia.com/documents/data-sheet/74HC_HCT138.pdf) |
+| 1 | [74HC138](comb/74HC138.vhd) | Decodificador 3-a-8 | [TI](https://www.ti.com/lit/ds/symlink/sn74lvc138a.pdf?ts=1759793499160&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LVC138A) |
 | 2 | [74HC139](comb/74HC139.vhd) | Decodificador dual 2-a-4 | [TI](https://www.ti.com/product/74HC139) |
 | 3 | [74HC147](comb/74HC147.vhd) | Codificador decimal-BCD prioridad 10 líneas | [ON-Semi](https://www.onsemi.com/products/analog-logic-gates/74hc147) |
 | 4 | [74HC148](comb/74HC148.vhd) | Codificador de prioridad 8 entradas | [ST](https://www.st.com/en/logic-coders/74hc148.html) |

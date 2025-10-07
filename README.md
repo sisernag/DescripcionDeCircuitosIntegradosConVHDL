@@ -34,7 +34,7 @@ Partiendo de las **hojas de datos oficiales de los fabricantes** (sin agregadore
 | 1 | [74HC138](comb/74HC138.vhd) | Decodificador 3-a-8 | [TI](https://www.ti.com/lit/ds/symlink/sn74lvc138a.pdf?ts=1759793499160&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN74LVC138A) |
 | 2 | [74HC139](comb/74HC139.vhd) | Decodificador dual 2-a-4 | [TI](https://www.ti.com/lit/ds/symlink/sn74hc139-q1.pdf?ts=1759771691926) |
 | 3 | [74HC147](comb/74HC147.vhd) | Codificador decimal-BCD prioridad 10 líneas | [ON-Semi](https://rocelec.widen.net/view/pdf/jkuv9nvg2w/MOTOD158-3-154.pdf?t.download=true&u=5oefqw) |
-| 4 | [74HC148](comb/74HC148.vhd) | Codificador de prioridad 8 entradas | [ST](https://www.st.com/en/logic-coders/74hc148.html) |
+| 4 | [74HC148](comb/74HC148.vhd) | Codificador de prioridad 8 entradas | [ST](https://www.datasheet.support/pdfviewer?url=https%3A%2F%2Fpdf.datasheet.support%2F3388e243%2Fst.com%2F74HC148.pdf) |
 | 5 | [74HC151](comb/74HC151.vhd) | Multiplexor 8-a-1 | [Nexperia](https://www.nexperia.com/products/analog-switches-multiplexers/analog-switch-mux-demux/74HC151.html) |
 | 6 | [74HC153](comb/74HC153.vhd) | Multiplexor dual 4-a-1 | [TI](https://www.ti.com/product/74HC153) |
 | 7 | [74HC157](comb/74HC157.vhd) | Multiplexor cuádruple 2-a-1 | [ST](https://www.st.com/en/analog-switches-multiplexers/74hc157.html) |

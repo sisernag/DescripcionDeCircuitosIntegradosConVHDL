@@ -44,7 +44,7 @@ Partiendo de las **hojas de datos oficiales de los fabricantes** (sin agregadore
 | 11 | [74HC244](comb/74HC244.vhd) | Buffer octal 3 estados | [ON-Semi](https://www.onsemi.com/products/buffers-transceivers/74hc244) |
 | 12 | [74HC245](comb/74HC245.vhd) | Transceiver bidireccional octal | [NXP](https://www.nxp.com/docs/en/data-sheet/74HC245.pdf) |
 | 13 | [74HC283](comb/SN74HC283.vhd) | Sumador rápido 4 bits | [Philips](https://www.mouser.com/datasheet/2/302/74HC283_3-39369.pdf?srsltid=AfmBOorAgZKuKA3rW9gTi6EH6DbQqtnrnW7OmTR-i6LbKqH_8WWhsKhy) |
-| 14 | [74HC85](comb/74HC85.vhd) | Comparador magnitud 4 bits | [Nexperia](https://assets.nexperia.com/documents/data-sheet/74HC_HCT85.pdf) |
+| 14 | [74HC85](comb/SN74HC85.vhd) | Comparador magnitud 4 bits | [Nexperia](https://assets.nexperia.com/documents/data-sheet/74HC_HCT85.pdf) |
 | 15 | [74HC4002](comb/74HC4002.vhd) | Puerto de expansión 18 bits (NOR dual 4 ent) | [Microchip](https://www.microchip.com/en-us/product/74HC4002) |
 
 ---
